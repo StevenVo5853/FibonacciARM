@@ -1,5 +1,4 @@
 #
-# CSE30 Makefile
 #
 # we declare the object we want to build in the variable EXE
 # we list the objects we want to compile (from c) in OBJS
