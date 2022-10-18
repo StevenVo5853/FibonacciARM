@@ -1,0 +1,12 @@
+---
+:id: 37981547
+:submitters:
+- :name: Steven Vo
+  :email: s2vo@ucsd.edu
+:created_at: !ruby/object:ActiveSupport::TimeWithZone
+  utc: 2020-05-20 02:18:17.196832000 Z
+  zone: !ruby/object:ActiveSupport::TimeZone
+    name: America/Los_Angeles
+  time: 2020-05-19 19:18:17.196832000 Z
+:status: processed
+:score: 25.0
